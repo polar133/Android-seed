@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="prompt_usuario">Usuario</string>
+    <string name="prompt_password">Contraseña</string>
+    <string name="error_field_required">Este campo es necesario</string>
+    <string name="error_usuario">Usuario invalido</string>
+    <string name="error_password">Contraseña invalida</string>
+    <string name="drawer_open">Abrir drawer</string>
+    <string name="drawer_close">Cerrar drawer</string>
+
+    <!-- NAVEGADOR -->
+    <string-array name="nav_opciones">
+        <item>Cerrar sesión</item>
+    </string-array>
+
+    <string name="usuario_nombre">Nombre:</string>
+    <string name="usuario_correo">Correo:</string>
+    <string name="usuario_usuario">Usuario:</string>
+    <string name="usuario_telefono">Telefono:</string>
+
+
+    <string name="opciones_cerrar_sesion">¿Está seguro que desea cerrar sesión?</string>
+    <string name="app_name">Android-seed</string>
+    <string name="hello_world">Hola Mundo!</string>
+    <string name="action_settings">Propiedades</string>
+    <string name="title_activity_login">Iniciar sesión</string>
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+
+</resources>

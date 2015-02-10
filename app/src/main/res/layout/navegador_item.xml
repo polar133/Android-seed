@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="60dp"
+    android:paddingRight="10dp">
+
+    <TextView
+        android:id="@+id/drawer_texto"
+        android:layout_width="wrap_content"
+        android:layout_height="match_parent"
+        android:layout_alignParentTop="true"
+        android:layout_centerHorizontal="true"
+        android:gravity="center_vertical"
+        android:paddingBottom="15dp"
+        android:paddingTop="15dp"
+        android:text="Ejemplo"
+        android:textColor="@color/color_clouds"
+        android:textSize="18sp" />
+
+    <View
+        android:id="@+id/drawer_selector"
+        android:layout_width="7dp"
+        android:layout_height="match_parent"
+        android:layout_alignParentLeft="true" />
+
+</RelativeLayout>
